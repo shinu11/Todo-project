@@ -17,7 +17,7 @@ Its a registration form .also you can edit it after the registration form was sa
 
 ## Lessons Learned
 
-it help's you to reach out for creating a good registration form
+it help's you to reach out for creating a Task and also we can Update&Delete it for your favour
 
 ## Support
 
