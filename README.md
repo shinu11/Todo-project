@@ -11,14 +11,9 @@ Its a registration form .also you can edit it after the registration form was sa
 - colour availible
 - Light/dark mode toggle
 - Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Demo
-
-http://127.0.0.1:8000/
-
+- Create Task
+- Update Task
+- Delete Task
 
 ## Lessons Learned
 
