@@ -3,7 +3,7 @@
 
 # Todo App
 
-Its a registration form .also you can edit it after the registration form was saved.
+Its a registration form .also you can edit it after the registration form was saved.it is a CRUD operation here we can create the data then we read the data and also we can update the data when it requires.also a delete button for permanently delete the data we created.
 
 
 ## Features
