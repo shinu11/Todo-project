@@ -1,5 +1,4 @@
-
-![Logo](https://images.ctfassets.net/lzny33ho1g45/O6Ns6DttUzJym7rhGiD36/68646ae82f982ea77bdea3f24eca79bf/best-todo-list-apps-00-hero.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760)
+![Screenshot (3)](https://user-images.githubusercontent.com/115803782/211743347-f3df00d8-97b3-4aad-a280-549fed9a7594.png)
 
 
 # Todo App
